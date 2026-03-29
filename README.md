@@ -79,7 +79,7 @@ Jupyter Notebook
 
 This project demonstrates how exploratory data analysis and visualization can be used to understand oil well performance. The insights gained can support better operational decisions and highlight important production patterns without the use of machine learning models.
 
-👨‍💻 Author
+Author
 Dappa Precious
-Olhaid (CryptoKnight)
-Data Analyst | Geotechnical & Energy Data Enthusiast
+👨‍💻 Author
+
